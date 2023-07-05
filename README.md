@@ -57,3 +57,14 @@ const amit_kumar = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Python                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+```
