@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img align='right' src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="230">
 <p><em>Senior Software Engineer at <a href="https://www.worf.in/">Worf Internet Services Private Limited
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
