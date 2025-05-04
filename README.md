@@ -62,9 +62,8 @@ const amit_kumar = {
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-Python                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Java                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JavaScript               32 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Python                     11 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript               32 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
