@@ -5,7 +5,6 @@
 <br>
 - 💞️ I’m looking to collaborate with Python Developers for Frappe App Development 
 <br>
-- 📫 How to reach me ? ahh just ping me at amit@worf.in
 <br>
 
 <!---
@@ -13,11 +12,6 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<img align='right' src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.worf.in/">Worf Internet Services Private Limited
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 ### 📫 Like to meet me?
 
